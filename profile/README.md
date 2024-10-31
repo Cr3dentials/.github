@@ -1,2 +1,2 @@
 # Cr3dentials
-Cr3dentials is a public good to where users can connect their wallet and generate secure proofs by uploading raw email files (.eml) or using Transport Layer Security (TLS). These proofs are then minted into soulbound tokens and stored onchain in the user’s wallet.   
+Cr3dentials is a public good enabling users to connect their wallet and generate secure, privacy-preserving proofs from email data. By uploading raw email files (.eml), users can generate cryptographic proofs of income, identity, and contributions that are minted as soulbound tokens (SBTs) on-chain. This system leverages zero-knowledge (zk) technology to ensure user data remains private while providing verifiable credentials on-chain.
