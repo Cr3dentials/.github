@@ -1,2 +1,2 @@
 # Cr3dentials
-Cr3dentials is a public good enabling users to connect their wallet and generate secure, privacy-preserving proofs from email data. By uploading raw email files (.eml), users can generate cryptographic proofs of income, identity, and contributions that are minted as soulbound tokens (SBTs) on-chain. This system leverages zero-knowledge (zk) technology to ensure user data remains private while providing verifiable credentials on-chain.
+Cr3dentials is verification infrastructure for financial institutions. We help lenders and cross-border payment companies use zkTLS to verify bank statements and high-value transfers, enriching financial services and automating OTC proof-of-payment operations.
